@@ -1,0 +1,77 @@
+.menuNavigationtitle{
+    flex-direction: column;
+}
+
+nav{
+    flex-direction: column;
+}
+
+.menuNav{
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.wrapSwitcher{
+    margin-top: 20px;
+}
+
+.commentAuthor{
+    width: 345px;
+   
+}
+
+.descriptionTitle{
+    flex-direction: column;
+}
+
+.wrapContainer{
+    flex-direction: column;
+}
+x
+.wrapContainer button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.contentMain{
+    flex-direction: column;
+    align-items: center;
+}
+.contentAuthor{
+    width: 359px;
+    margin:3vw 0vw 0vw 0vw;
+}
+
+.containerFormAuth{
+    align-items: center;
+    flex-direction: column-reverse;
+    height: 532px;
+    background: #fff;
+}
+
+.wrapContainer button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.leftFormAuth{
+    background-size: cover;
+    width: 376px;
+    margin-top: 30px;
+}
+
+.wrapHint{
+    flex-direction: column-reverse;
+}
+
+.treangleHint{
+    clip-path: polygon(58% 5%, 19% 109%, 109% 121%);
+    -webkit-clip-path:  polygon(58% 5%, 19% 109%, 109% 121%);
+
+}
+.leftFormReg{
+    display: none;
+}
+.backgroundShadowCover{
+    align-items: flex-start;
+}
